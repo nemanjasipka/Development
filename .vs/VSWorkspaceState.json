@@ -4,11 +4,8 @@
     "\\assignmentone",
     "\\assignmentone\\src",
     "\\assignmentone\\src\\Modules",
-    "\\assignmentone\\src\\Modules\\Css",
-    "\\myfirstapp\\src",
-    "\\myfirstapp\\src\\Math",
-    "\\myfirstapp\\src\\Person"
+    "\\assignmentone\\src\\Modules\\Css"
   ],
-  "SelectedNode": "\\assignmentone\\src\\Modules\\Css\\UserOutput.css",
+  "SelectedNode": "\\assignmentone\\package.json",
   "PreviewInSolutionExplorer": false
 }
